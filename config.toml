@@ -11,5 +11,23 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+theme = "hallo"
+title = "Anilton Junior"
 [extra]
 # Put all your custom variables here
+greeting = "Olá!"
+
+iam = "Eu sou"
+
+links = [
+    { title = "E-Mail", url = "mailto:anilton.junior@gmail.com", iconset = "fas", icon = "envelope" },
+    { title = "GitHub", url = "https://github.com/aniltonjunior", icon = "github" }
+]
+
+[extra.author]
+name = "Anilton Junior"
+
+[extra.theme]
+background = "#6FCDBD"
+foreground = "#FFF"
+hover = "#333"
