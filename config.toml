@@ -20,7 +20,7 @@ greeting = "Olá!"
 iam = "Eu sou"
 
 links = [
-    { title = "E-Mail", url = "mailto:anilton.junior@gmail.com", iconset = "fas", icon = "envelope" },
+    { title = "E-Mail", url = "mailto:contato@aniltonjunior.com", iconset = "fas", icon = "envelope" },
     { title = "GitHub", url = "https://github.com/aniltonjunior", icon = "github" }
 ]
 
