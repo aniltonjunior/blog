@@ -28,6 +28,6 @@ links = [
 name = "Anilton Junior"
 
 [extra.theme]
-background = "#6FCDBD"
+background = "#90BE6D"
 foreground = "#FFF"
 hover = "#333"
